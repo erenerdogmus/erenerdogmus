@@ -23,3 +23,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erenerdogmus&" alt="erenerdogmus" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erenerdogmus&label=Profile%20views&color=0e75b6&style=flat" alt="erenerdogmus" /> </p>
+
+![snake gif](https://github.com/erenerdogmus/erenerdogmus/blob/output/github-contribution-grid-snake.svg)
